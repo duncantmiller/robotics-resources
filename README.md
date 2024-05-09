@@ -8,7 +8,47 @@ I hope you find these resources useful as well and if you have any to add that I
 #### About Rose City Robotics
 We are a robotics integrator using AI to add capabilities to existing robotics hardware. Learn more [about Rose City Robotics](https://rosecityrobotics.com/).
 
-#### Courses
+#### Robot Operating System 2 (ROS2)
+##### Introductory
+*Courses*
+- [Python3 for Robotics](https://www.theconstruct.ai/robotigniteacademy_learnros/ros-courses-library/python-robotics/) - The Construct
+- [Programming for Robotics(https://rsl.ethz.ch/education-students/lectures/ros.html) - ETH Zurich
+- [Programming for Robotics Lecture Video Playlist](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP&ab_channel=RoboticSystemsLab%3ALeggedRoboticsatETHZ%C3%BCrich) - ETH Zurich
+- [Linux for Robotics](https://app.theconstruct.ai/courses/linux-for-robotics-40/) - The Construct
+- [C++ for Robotics](https://app.theconstruct.ai/courses/c-for-robotics-59/) - The Construct
+
+*Tutorials*
+- [CLI Tools](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools.html) - ros.org
+- [Client Libraries](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries.html) - ros.org
+- [Building a Simple Robot in Gazebo Simulation](https://gazebosim.org/docs/harmonic/tutorials#basics-tutorials) - Gazebo
+- [How I Program Robots: My Languages](https://www.youtube.com/watch?v=DTBSpbNhaCs) - Let's Talk With Robots
+- [How to learn coding for Robotics ft. Bittle Robot](https://www.youtube.com/watch?v=IA4FbYpPtbI) - Let's Talk With Robots
+- [ROS2 Tutorials Playlist](https://www.youtube.com/watch?v=bDmjX1bXVk0&list=PL8MgID9MCju0GMQDTWzYmfiU3wY_Zdjl5&ab_channel=EasyPeasyRobotics) - Easy Peasy Robotics
+- [ROS2 Tutorials](https://husarion.com/tutorials/ros2-tutorials/ros2/) - Husarion
+- [ROS2 Tutorials](https://www.youtube.com/c/RoboticsBackEnd) - Robotics Backend
+- [Articulated Robotics Tutorials](https://articulatedrobotics.xyz/tutorials/) - Articulated Robotics
+- [Articulated Robotics Youtube Channel](https://www.youtube.com/@ArticulatedRobotics) - Articulated Robotics
+
+*Books*
+- [ROS Wiki Recommended Books](https://wiki.ros.org/Books) - ros.org (Free + Paid)
+
+*Misc*
+- [ROS2 Discussion Forum](https://robotics.stackexchange.com/) - ros.org
+
+##### Intermediate
+*Courses*
+- [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/learn/robotics/delft-university-of-technology-hello-real-world-with-ros-robot-operating-system) - Delft University of Technology
+- [GUI Gazebo Simulation Tutorials](https://gazebosim.org/docs/harmonic/tutorials#gui-tutorials) - Gazebo
+
+*Tutorials*
+- [ROS2 Intermediate Tutorials](https://docs.ros.org/en/foxy/Tutorials/Intermediate.html) - ros.org
+- [ROS Integration with Gazebo Simulation](https://gazebosim.org/docs/harmonic/tutorials#ros-integration) - Gazebo
+
+##### Advanced
+*Tutorials*
+- [ROS2 Advanced Tutorials](https://docs.ros.org/en/foxy/Tutorials/Advanced.html) - ros.org
+
+#### Robotics Courses
 ##### Introductory
 - [Design of Electromechanical Robotic Systems](https://ocw.mit.edu/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/) - Massachusetts Institute of Technology
 - [Lego Robotics](https://ocw.mit.edu/courses/es-293-lego-robotics-spring-2007/) - Massachusetts Institute of Technology
@@ -45,14 +85,13 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 - [Capstone Project, Mobile Manipulation](https://www.coursera.org/learn/modernrobotics-course6) - Northwestern University
 - [Robotics Foundations I - Robot Modeling](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundations-i-robot-modeling) - Università degli Studi di Napoli Federico II
 - [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) - ETH Zurich
-- [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/learn/robotics/delft-university-of-technology-hello-real-world-with-ros-robot-operating-system) - Delft University of Technology
 - [Robot Development](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robot-development) - Università degli Studi di Napoli Federico II
 - [Robotics Foundation II - Robot Control](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundation-ii-robot-control) - Università degli Studi di Napoli Federico II
 
 ##### Advanced
 - [Cognitive Robotics](https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/) - Massachusetts Institute of Technology
 - [Social Study of Science and Technology](https://ocw.mit.edu/courses/sts-350-social-study-of-science-and-technology-spring-2004/) - Massachusetts Institute of Technology
-- [Underactuated Robotics (2022)](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2022/) - Massachusetts Institute of Technology
+- [Underactuated Robotics](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2022/) - Massachusetts Institute of Technology
 - [Robotic Manipulation](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/) - Massachusetts Institute of Technology
 - [Relational Machines](https://ocw.mit.edu/courses/mas-965-relational-machines-spring-2005/) - Massachusetts Institute of Technology
 - [Special Topics in Media Technology: Cooperative Machines](https://ocw.mit.edu/courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/) - Massachusetts Institute of Technology
@@ -70,7 +109,6 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 - [Robotics: Kinematics and Mathematical Foundations](https://www.edx.org/learn/robotics/university-of-pennsylvania-robotics-kinematics-and-mathematical-foundations) - University of Pennsylvania
 - [Modeling and Simulation of Multibody Systems - Part II](https://www.edx.org/learn/engineering/universite-catholique-de-louvain-modeling-and-simulation-of-multibody-systems-part-ii) - Université catholique de Louvain
 - [Convex Optimization](https://www.edx.org/learn/engineering/stanford-university-convex-optimization) - Stanford University
-
 
 ### Notes
 ** Most Coursera courses can be audited for free. From the enrollment page just choose the "audit" option when registering. When you audit a course you'll be able to see most of the course materials for free, but you won't be able to submit certain assessments or get grades for your work. You won't get a certificate, but you can pay for one at any time during or after the course. If you pay for a certificate, you may need to complete more coursework that wasn't available in the audit version.
