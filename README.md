@@ -38,15 +38,15 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 #### Intermediate
 ##### Courses
 - [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/learn/robotics/delft-university-of-technology-hello-real-world-with-ros-robot-operating-system) - Delft University of Technology
-- [GUI Gazebo Simulation Tutorials](https://gazebosim.org/docs/harmonic/tutorials#gui-tutorials) - Gazebo
 
 ##### Tutorials
 - [ROS2 Intermediate Tutorials](https://docs.ros.org/en/foxy/Tutorials/Intermediate.html) - ros.org
-- [ROS Integration with Gazebo Simulation](https://gazebosim.org/docs/harmonic/tutorials#ros-integration) - Gazebo
+- [GUI Gazebo Simulation Tutorials](https://gazebosim.org/docs/harmonic/tutorials#gui-tutorials) - Gazebo
 
 #### Advanced
 ##### Tutorials
 - [ROS2 Advanced Tutorials](https://docs.ros.org/en/foxy/Tutorials/Advanced.html) - ros.org
+- [ROS Integration with Gazebo Simulation](https://gazebosim.org/docs/harmonic/tutorials#ros-integration) - Gazebo
 
 ### Robotics Courses
 #### Introductory
