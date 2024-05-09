@@ -16,7 +16,6 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 - [Mobile Autonomous Systems Laboratory](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/) - Massachusetts Institute of Technology
 - [Autonomous Robot Design Competition](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/) - Massachusetts Institute of Technology
 - [Robotic Manipulation](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/) - Massachusetts Institute of Technology
-
 - [Basic Robotic Behaviors and Odometry](https://www.coursera.org/learn/basic-robotic-behaviors-and-odometry) - University of Colorado Boulder
 - [Robotic Mapping and Trajectory Generation](https://www.coursera.org/learn/robotic-mapping-trajectory-generation) - University of Colorado Boulder
 - [Robotic Path Planning and Task Execution](https://www.coursera.org/learn/robotic-path-planning-task-execution) - University of Colorado Boulder
