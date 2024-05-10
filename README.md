@@ -1,5 +1,3 @@
-# Technical Courses, Books, and Tutorials on Robotics
-
 I've been keeping a running list of highly recommended and informative resources that I have come across while learning more about robotics. The majority of these resources are all free at least to audit, see note at the bottom about Coursera courses. For any resources that are not free - mostly books, I've added a (paid) label.
 
 ### Contributing
