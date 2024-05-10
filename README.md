@@ -1,4 +1,4 @@
-I've been keeping a running list of highly recommended and informative resources that I have come across while learning more about robotics. The majority of these resources are all free at least to audit, see note at the bottom about Coursera courses. For any resources that are not free - mostly books, I've added a (paid) label.
+I've been keeping a running list of highly recommended and informative resources that I have come across while learning more about robotics. The majority of these resources are free at least to audit, see note at the bottom about Coursera courses. For any resources that are not free - mostly books - I've added a (paid) label.
 
 ### Contributing
 I hope you find these resources useful as well and if you have any to add that I'm missing please email me at [duncan@rosecityrobotics.com](mailto:duncan@rosecityrobotics.com) or submit a PR to update the [source code](https://github.com/duncantmiller/ai-robotics-resources/blob/main/README.md) for this list.
@@ -28,10 +28,12 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 - [Articulated Robotics Youtube Channel](https://www.youtube.com/@ArticulatedRobotics) - Articulated Robotics
 
 ##### Books
-- [ROS Wiki Recommended Books](https://wiki.ros.org/Books) - ros.org (Free + Paid)
+- [A Gentle Introduction to ROS](https://jokane.net/agitr/) - Jason O'Kane
+- [Wiki Recommended Books](https://wiki.ros.org/Books) - ros.org (Free + Paid)
 
 ##### Misc
-- [ROS2 Discussion Forum](https://robotics.stackexchange.com/) - ros.org
+- [StackExchange](https://robotics.stackexchange.com/) - ros.org
+- [Discourse](https://discourse.ros.org/) - ros.org
 
 #### Intermediate
 ##### Courses
