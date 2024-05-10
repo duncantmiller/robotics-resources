@@ -1,6 +1,6 @@
 # Technical Courses, Books, and Tutorials on Robotics
 
-I've been keeping a running list of highly recommended and informative resources that I have come across while learning more about robotics. The majority of these resources are all free at least to audit, see note at the bottom about Coursera courses.
+I've been keeping a running list of highly recommended and informative resources that I have come across while learning more about robotics. The majority of these resources are all free at least to audit, see note at the bottom about Coursera courses. For any resources that are not free - mostly books, I've added a (paid) label.
 
 ### Contributing
 I hope you find these resources useful as well and if you have any to add that I'm missing please email me at [duncan@rosecityrobotics.com](mailto:duncan@rosecityrobotics.com) or submit a PR to update the [source code](https://github.com/duncantmiller/ai-robotics-resources/blob/main/README.md) for this list.
@@ -64,7 +64,6 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 - [Robotics Mobility](https://www.coursera.org/learn/robotics-mobility) - University of Pennsylvania
 - [Robotics Perception](https://www.coursera.org/learn/robotics-perception) - University of Pennsylvania
 - [Robotics Estimation and Learning](https://www.coursera.org/learn/robotics-learning) - University of Pennsylvania
-- [Robotics Capstone](https://www.coursera.org/learn/robotics-capstone) - University of Pennsylvania
 - [The Mechatronics Revolution: Fundamentals and Core Concepts](https://www.edx.org/learn/engineering/the-georgia-institute-of-technology-the-mechatronics-revolution-fundamentals-and-core-concepts) - Georgia Institute of Technology
 - [Introduction to Robotic Programming](https://www.edx.org/learn/robotics/rwth-aachen-university-introduction-to-robotic-programming) - RWTH Aachen University
 - [Cognitive Neuroscience Robotics – Part A](https://www.edx.org/learn/robotics/osaka-university-cognitive-neuroscience-robotics-part-a) - Osaka University
