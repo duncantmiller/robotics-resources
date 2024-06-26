@@ -110,6 +110,9 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 - [Modeling and Simulation of Multibody Systems - Part II](https://www.edx.org/learn/engineering/universite-catholique-de-louvain-modeling-and-simulation-of-multibody-systems-part-ii) - Université catholique de Louvain
 - [Convex Optimization](https://www.edx.org/learn/engineering/stanford-university-convex-optimization) - Stanford University
 
+### Robotics & Machine Learning Books
+- [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind) - MIT Press, Thomas Parr, Giovanni Pezzulo, Karl J. Friston
+
 ## Notes
 ** Most Coursera courses can be audited for free. From the enrollment page just choose the "audit" option when registering. When you audit a course you'll be able to see most of the course materials for free, but you won't be able to submit certain assessments or get grades for your work. You won't get a certificate, but you can pay for one at any time during or after the course. If you pay for a certificate, you may need to complete more coursework that wasn't available in the audit version.
 
