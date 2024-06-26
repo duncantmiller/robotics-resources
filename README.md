@@ -86,6 +86,7 @@ We are a robotics integrator using AI to add capabilities to existing robotics h
 - [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) - ETH Zurich
 - [Robot Development](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robot-development) - Università degli Studi di Napoli Federico II
 - [Robotics Foundation II - Robot Control](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundation-ii-robot-control) - Università degli Studi di Napoli Federico II
+- [Applied Robot Design](https://www.youtube.com/@StanfordCS235) - Stanford
 
 #### Advanced
 - [Cognitive Robotics](https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/) - Massachusetts Institute of Technology
