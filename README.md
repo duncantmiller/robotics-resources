@@ -1,10 +1,10 @@
 I've been keeping a running list of highly recommended and informative resources that I have come across while learning more about robotics. The majority of these resources are free at least to audit, see note at the bottom about Coursera courses. For any resources that are not free - mostly books - I've added a (paid) label.
 
-### Contributing
-I hope you find these resources useful as well and if you have any to add that I'm missing please email me at [duncan@rosecityrobotics.com](mailto:duncan@rosecityrobotics.com) or submit a PR to update the [source code](https://github.com/duncantmiller/ai-robotics-resources/blob/main/README.md) for this list.
+#### Contributing
+I hope you find these resources useful as well and if you have any to add that I'm missing please email me at [duncan@rozerolabs.com](mailto:duncan@rozerolabs.com) or submit a PR to update the [source code](https://github.com/duncantmiller/ai-robotics-resources/blob/main/README.md) for this list.
 
-### About Rose City Robotics
-We are a robotics integrator using AI to add capabilities to existing robotics hardware. Learn more [about Rose City Robotics](https://rosecityrobotics.com/).
+#### About RoZero Labs
+We are a robotics integrator developing technology for autonomous disassembly of EV batteries for recycling using machine learning and AI. Learn more [about RoZero Labs](https://rozerolabs.com/).
 
 ### Robot Operating System 2 (ROS2)
 #### Introductory
